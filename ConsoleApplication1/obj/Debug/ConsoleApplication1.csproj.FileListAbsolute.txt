@@ -11,4 +11,3 @@ C:\Users\nqwk\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Ne
 C:\Users\nqwk\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.Bson.pdb
 C:\Users\nqwk\RiderProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.Bson.xml
 C:\Users\nqwk\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
-C:\Users\nqwk\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
